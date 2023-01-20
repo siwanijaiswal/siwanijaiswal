@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript && Reactjs**
 
-- 📫 How to reach me **siwani.jce20@sot.pdpu.ac.in**
+- 📫 How to reach me: siwani.jce20@sot.pdpu.ac.in
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
