@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Siwani Jaiswal. I'm a 3rd year Student pursuing B.tech in Computer Science at PDEU.</h1>
-<h3 align="center">A Passionate Web Developer And Coding Enthusiast</h3>
+<h3 align="center">A Passionate Web Developer and Coding Enthusiast</h3>
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/fYCwyCTk43skNcN4rRD9AOFGocnHr19ZQBWwvoS3pPQ/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC41/T2VuYndkazRlcWxD/cjAxWTRmQV9RSGFI/YSZwaWQ9QXBp">
 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaiswalsiwani55" target="blank"><img src="https://img.shields.io/twitter/follow/jaiswalsiwani55?logo=twitter&style=for-the-badge" alt="jaiswalsiwani55" /></a> </p>
 
-- 🌱 I’m currently learning ** Javascript and Reactjs**
+- 🌱 I’m currently learning **Javascript and Reactjs**
 
 - 📫 How to reach me:: siwani.jce20@sot.pdpu.ac.in
 
