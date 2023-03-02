@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaiswalsiwani55" target="blank"><img src="https://img.shields.io/twitter/follow/jaiswalsiwani55?logo=twitter&style=for-the-badge" alt="jaiswalsiwani55" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and Reactjs**
+- 🌱 I’m currently learning **Javascript && Reactjs**
 
 - 📫 How to reach me:: siwani.jce20@sot.pdpu.ac.in
 
