@@ -11,7 +11,7 @@
 
 - 📫 How to reach me:: siwani.jce20@sot.pdpu.ac.in
 
-<h3 align="left">Let's Connect Wid Me:</h3>
+<h3 align="left">Let's Connect With Me:</h3>
 <p align="left">
 
 
