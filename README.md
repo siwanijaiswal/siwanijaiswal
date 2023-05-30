@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋,I'm Siwani Jaiswal. I'm a 3rd year student pursuing B.tech in Computer Science at PDEU.</h1>
+<h1 align="center">Hi👋,I'm Siwani Jaiswal. I'm a Pre Final year student pursuing B.tech in Computer Science at PDEU.</h1>
 <h3 align="center">A Passionate Web Developer And Coding Enthusiast</h3>
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/fYCwyCTk43skNcN4rRD9AOFGocnHr19ZQBWwvoS3pPQ/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC41/T2VuYndkazRlcWxD/cjAxWTRmQV9RSGFI/YSZwaWQ9QXBp">
 
