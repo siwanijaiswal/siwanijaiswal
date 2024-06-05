@@ -19,6 +19,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/siwani-jaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siwani-jaiswal/" height="30" width="40" /></a>
 <a href="https://instagram.com/jaiswal.siwani123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaiswal.siwani123" height="30" width="40" /></a>
 <a href="https://medium.com/@siwani.jce20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@siwani.jce20" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25437511/siwani-jaiswal" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="siwani-jaiswal" height="30" width="40" />
+  </a>
 </p>
 
 
