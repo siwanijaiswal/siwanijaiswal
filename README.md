@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jaiswalsiwani55" target="blank"><img src="https://img.shields.io/twitter/follow/jaiswalsiwani55?logo=twitter&style=for-the-badge" alt="jaiswalsiwani55" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Reactjs, DSA And MySQL**
+- 🌱 Experienced with the Tech Stacks: **Reactjs, NextJS, Javascript, NodeJs, Tailwind CSS**
 
-- 📫 How to reach me:: siwani.jce20@sot.pdpu.ac.in
+- 📫 How to reach me:: jaiswalsiwani123@gmail.com
 
 <h3 align="left">Let's Connect Wid Me:</h3>
 <p align="left">
